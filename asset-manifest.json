@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://jeyachandran.github.io/moviepark/static/css/main.334bdeb1.css",
+    "main.js": "/git%20remote%20add%20origin%20https://jeyachandran.github.io/moviepark/static/js/main.46ce5bc7.js",
+    "index.html": "/git%20remote%20add%20origin%20https://jeyachandran.github.io/moviepark/index.html",
+    "static/media/search.svg": "/git%20remote%20add%20origin%20https://jeyachandran.github.io/moviepark/static/media/search.8ff5426bc87a3f731164f42e41b7144b.svg",
+    "main.334bdeb1.css.map": "/git%20remote%20add%20origin%20https://jeyachandran.github.io/moviepark/static/css/main.334bdeb1.css.map",
+    "main.46ce5bc7.js.map": "/git%20remote%20add%20origin%20https://jeyachandran.github.io/moviepark/static/js/main.46ce5bc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.46ce5bc7.js"
+  ]
+}
